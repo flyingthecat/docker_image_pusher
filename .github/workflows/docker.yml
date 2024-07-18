@@ -1,5 +1,0 @@
-# .github/workflows/sync.yml
-name: docker c
-
-on:
-  workflow_dispatch: # workflow_dispatch手动触发 push push时触发
